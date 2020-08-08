@@ -1,0 +1,3 @@
+-keep class com.example.dualword.android.musicplayer.AudioPreview {
+  public void playPauseClicked(android.view.View);
+}
